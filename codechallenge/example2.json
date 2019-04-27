@@ -1,0 +1,41 @@
+{
+  "unit":"property 1",
+  "subunit":[
+    {
+      "unit":"kitchen",
+      "subunit":[
+        {
+          "unit":"balcony"
+        },
+        {
+          "unit":"window"
+        }
+      ]
+    },
+    {
+      "unit":"bedroom",
+      "subunit":[
+        {
+          "unit":"double-bed"
+        },
+        {
+          "unit":"sofa-bed"
+        },
+        {
+          "unit":"window"
+        },
+        {
+          "unit":"bathroom",
+          "subunit":[
+            {
+              "unit":"toilet"
+            },
+            {
+              "unit":"window"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
