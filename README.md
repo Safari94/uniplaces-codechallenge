@@ -1,7 +1,7 @@
 # uniplaces-codechallenge
 
 Code challenge that I did during the recruitment process for the position of Software Engineer at Uniplaces.
-Spring Framework to build Rest API and Swagger 2 to do your documentation
+Spring Framework to build Rest API and Swagger 2 for the documentation
 
 
 # Units with sub-units
